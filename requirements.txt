@@ -77,6 +77,6 @@ spaces
 trimesh>=4.4.0
 
 # waymo dataset
-protobuf==3.20.2
+protobuf==5.29.6
 # Optional local dependency (install manually if needed for Waymo parsing):
 # scripts/waymo/simple-waymo-open-dataset-reader
